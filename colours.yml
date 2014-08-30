@@ -57,620 +57,627 @@
 -   
     id     : 9
     name   : MONZA
-    family :
+    family : red
     hex    : "#CF000F"
     rgb    : 207, 0, 15
 
 -   
     id     : 10
     name   : CINNABAR
-    family :
+    family : red
     hex    : "#E74C3C"
     rgb    : 231, 76, 60
 
 -   
     id     : 11
     name   : RAZZMATAZZ
-    family :
+    family : red
     hex    : "#DB0A5B"
     rgb    : 219, 10, 91
 
 -   
     id     : 12
     name   : DERBY
-    family :
+    family : red
     hex    : "#FFECDB"
     rgb    : 255, 236, 219
 
 -   
     id     : 13
     name   : SUNSET ORANGE
-    family :
+    family : red
     hex    : "#F64747"
     rgb    : 246, 71, 71
 
 -   
     id     : 14
     name   : WAX FLOWER
-    family :
+    family : red
     hex    : "#F1A9A0"
     rgb    : 241, 169, 160
 
 -   
     id     : 15
     name   : CABARET
-    family :
+    family : red
     hex    : "#D2527F"
     rgb    : 210, 82, 127
 
 -   
     id     : 16
     name   : NEW YORK PINK
-    family :
+    family : red
     hex    : "#E08283"
     rgb    : 224, 130, 131
 
 -   
     id     : 17
     name   : RADICAL RED
-    family :
+    family : red
     hex    : "#F62459"
     rgb    : 246, 36, 89
 
 -   
     id     : 18
     name   : SUNGLO
-    family :
+    family : red
     hex    : "#E26A6A"
     rgb    : 226, 106, 106
 
 -   
     id     : 19
     name   : SNUFF
-    family :
+    family : purple
     hex    : "#DCC6E0"
     rgb    : 220, 198, 224
 
 -   
     id     : 20
     name   : REBECCAPURPLE
-    family :
+    family : purple
     hex    : "#663399"
     rgb    : 102, 51, 153
 
 -   
     id     : 21
     name   : HONEY FLOWER
-    family :
+    family : purple
     hex    : "#674172"
     rgb    : 103, 65, 114
 
 -   
     id     : 22
     name   : WISTFUL
-    family :
+    family : purple
     hex    : "#AEA8D3"
     rgb    : 174, 168, 211
 
 -   
     id     : 23
     name   : PLUM
-    family :
+    family : purple
     hex    : "#913D88"
     rgb    : 145, 61, 136
 
 -   
     id     : 24
     name   : SEANCE
-    family :
+    family : purple
     hex    : "#9A12B3"
     rgb    : 154, 18, 179
 
 -   
     id     : 25
     name   : MEDIUM PURPLE
-    family :
+    family : purple
     hex    : "#BF55EC"
     rgb    : 191, 85, 236
 
 -   
     id     : 26
     name   : LIGHT WISTERIA
-    family :
+    family : purple
     hex    : "#BE90D4"
     rgb    : 190, 144, 212
 
 -   
     id     : 27
     name   : STUDIO
-    family :
+    family : purple
     hex    : "#8E44AD"
     rgb    : 142, 68, 173
 
 -   
     id     : 28
     name   : WISTERIA
-    family :
+    family : purple
     hex    : "#9B59B6"
     rgb    : 155, 89, 182
 
 -   
     id     : 29
     name   : ALICE BLUE
-    family :
+    family : blue
     hex    : "#E4F1FE"
     rgb    : 228, 241, 254
 
 -   
     id     : 30
     name   : ROYAL BLUE
-    family :
+    family : blue
     hex    : "#4183D7"
     rgb    : 65, 131, 215
 
 -   
     id     : 31
     name   : PICTON BLUE
-    family :
+    family : blue
     hex    : "#59ABE3"
     rgb    : 89, 171, 227
 
 -   
     id     : 32
     name   : SPRAY
-    family :
+    family : blue
     hex    : "#81CFE0"
     rgb    : 129, 207, 224
 
 -   
     id     : 33
     name   : SHAKESPEARE
-    family :
+    family : blue
     hex    : "#52B3D9"
     rgb    : 82, 179, 217
 
 -   
     id     : 34
     name   : HUMMING BIRD
-    family :
+    family : blue
     hex    : "#C5EFF7"
     rgb    : 197, 239, 247
 
 -   
     id     : 35
     name   : PICTON BLUE
-    family :
+    family : blue
     hex    : "#22A7F0"
     rgb    : 34, 167, 240
 
 -   
     id     : 36
     name   : CURIOUS BLUE
-    family :
+    family : blue
     hex    : "#3498DB"
     rgb    : 52, 152, 219
 
 -   
     id     : 37
     name   : MADISON
-    family :
+    family : blue
     hex    : "#2C3E50"
     rgb    : 44, 62, 80
 
 -   
     id     : 38
     name   : DODGER BLUE
-    family :
+    family : blue
     hex    : "#19B5FE"
     rgb    : 25, 181, 254
 
 -   
     id     : 39
     name   : MING
-    family :
+    family : blue
     hex    : "#336E7B"
     rgb    : 51, 110, 123
 
 -   
     id     : 40
     name   : EBONY CLAY
-    family :
+    family : blue
     hex    : "#22313F"
     rgb    : 34, 49, 63
 
 -   
     id     : 41
     name   : MALIBU
-    family :
+    family : blue
     hex    : "#6BB9F0"
     rgb    : 107, 185, 240
 
 -   
     id     : 42
     name   : CURIOUS BLUE
-    family :
+    family : blue
     hex    : "#1E8BC3"
     rgb    : 30, 139, 195
 
 -   
     id     : 43
     name   : CHAMBRAY
-    family :
+    family : blue
     hex    : "#3A539B"
     rgb    : 58, 83, 155
 
 -   
     id     : 44
     name   : PICKLED BLUEWOOD
-    family :
+    family : blue
     hex    : "#34495E"
     rgb    : 52, 73, 94
 -
     
     id     : 45
     name   : HOKI
-    family :
+    family : blue
     hex    : "#67809F"
     rgb    : 103, 128, 159
 -
     
     id     : 46
     name   : JELLY BEAN
-    family :
+    family : blue
     hex    : "#2574A9"
     rgb    : 37, 116, 169
 
 -
     id     : 47
     name   : JACKSONS PURPLE
-    family :
+    family : blue
     hex    : "#1F3A93"
     rgb    : 31, 58, 147
 
 -
     id     : 48
     name   : JORDY BLUE
-    family :
+    family : blue
     hex    : "#89C4F4"
     rgb    : 137, 196, 244
 
 -
     id     : 49
     name   : STEEL BLUE
-    family :
+    family : blue
     hex    : "#4B77BE"
     rgb    : 75, 119, 190
 
 -
     id     : 50
     name   : FOUNTAIN BLUE
-    family :
+    family : blue
     hex    : "#5C97BF"
     rgb    : 92, 151, 191
 
 -
     id     : 51
     name   : MEDIUM TURQUOISE
-    family :
+    family : blue
     hex    : "#4ECDC4"
     rgb    : 78,205,196
 
 -
     id     : 52
     name   : AQUA ISLAND
-    family :
+    family : blue
     hex    : "#A2DED0"
     rgb    : 162, 222, 208
 
 -
     id     : 53
     name   : GOSSIP
-    family :
+    family : green
     hex    : "#87D37C"
     rgb    : 135, 211, 124
 
 -
     id     : 54
     name   : DARK SEA GREEN
-    family :
+    family : green
     hex    : "#90C695"
     rgb    : 144, 198, 149
 
 -
     id     : 55
     name   : EUCALYPTUS
-    family :
+    family : green
     hex    : "#26A65B"
     rgb    : 38, 166, 91
 
 -
     id     : 56
     name   : CARIBBEAN GREEN
-    family :
+    family : green
     hex    : "#03C9A9"
     rgb    : 3, 201, 169
 
 -
     id     : 57
     name   : SILVER TREE
-    family :
+    family : green
     hex    : "#68C3A3"
     rgb    : 104, 195, 163
 
 -
     id     : 58
     name   : DOWNY
-    family :
+    family : green
     hex    : "#65C6BB"
     rgb    : 101, 198, 187
 
 -
     id     : 59
     name   : MOUNTAIN MEADOW
-    family :
+    family : green
     hex    : "#1BBC9B"
     rgb    : 27, 188, 155
 
 -
     id     : 60
     name   : LIGHT SEA GREEN
-    family :
+    family : green
     hex    : "#1BA39C"
     rgb    : 27, 163, 156
 
 -
     id     : 61
     name   : MEDIUM AQUAMARINE
-    family :
+    family : green
     hex    : "#66CC99"
     rgb    : 102, 204, 153
 
 -
     id     : 62
     name   : TURQUOISE
-    family :
+    family : green
     hex    : "#36D7B7"
     rgb    : 54, 215, 183
 
 -
     id     : 63
     name   : MADANG
-    family :
+    family : green
     hex    : "#C8F7C5"
     rgb    : 200, 247, 197
 
 -
     id     : 64
     name   : RIPT IDE
-    family :
+    family : green
     hex    : "#86E2D5"
     rgb    : 134, 226, 213
 
 -
     id     : 65
     name   : SHAMROCK
-    family :
+    family : green
     hex    : "#2ECC71"
     rgb    : 46, 204, 113
 
 -
     id     : 66
     name   : MOUNTAIN MEADOW
-    family :
+    family : green
     hex    : "#16A085"
     rgb    : 22, 160, 133
 
 -
     id     : 67
     name   : EMERALD
-    family :
+    family : green
     hex    : "#3FC380"
     rgb    : 63, 195, 128
 
 -
     id     : 68
     name   : GREEN HAZE
-    family :
+    family : green
     hex    : "#019875"
     rgb    : 1, 152, 117
 
 -
     id     : 69
     name   : FREE SPEECH AQUAMARINE
-    family :
+    family : green
     hex    : "#03A678"
     rgb    : 3, 166, 120
 
 -
     id     : 70
     name   : OCEAN GREEN
-    family :
+    family : green
     hex    : "#4DAF7C"
     rgb    : 77, 175, 124
 
 -
     id     : 71
     name   : JUNGLE GREEN
-    family :
+    family : green
     hex    : "#2ABB9B"
     rgb    : 42, 187, 155
 
 -
     id     : 72
     name   : JADE
-    family :
+    family : green
     hex    : "#00B16A"
     rgb    : 0, 177, 106
 
 -
     id     : 73
     name   : SALEM
-    family :
+    family : green
     hex    : "#1E824C"
     rgb    : 30, 130, 76
 -
     
     id     : 74
     name   : OBSERVATORY
-    family :
+    family : green
     hex    : "#049372"
     rgb    : 4, 147, 114
 -
     id     : 75
     name   : JUNGLE GREEN
-    family :
+    family : green
     hex    : "#26C281"
     rgb    : 38, 194, 129
 -
     id     : 76
     name   : CREAM CAN
-    family :
+    family : orange
     hex    : "#F5D76E"
     rgb    : 245, 215, 110
 -
     id     : 77
     name   : RIPE LEMON
-    family :
+    family : orange
     hex    : "#F7CA18"
     rgb    : 247, 202, 24
 -
     id     : 78
     name   : SAFFRON
-    family :
+    family : orange
     hex    : "#F4D03F"
     rgb    : 244, 208, 63
 -
     id     : 79
     name   : CAPE HONEY
-    family :
+    family : orange
     hex    : "#FDE3A7"
     rgb    : 253, 227, 167
 -
     id     : 80
     name   : CALIFORNIA
-    family :
+    family : orange
     hex    : "#F89406"
     rgb    : 248, 148, 6
 -
     id     : 81
     name   : FIRE BUSH
-    family :
+    family : orange
     hex    : "#EB9532"
     rgb    : 235, 149, 50
 -
     id     : 82
     name   : TAHITI GOLD
-    family :
+    family : orange
     hex    : "#E87E04"
     rgb    : 232, 126, 4
 -
     id     : 83
     name   : CASABLANCA
-    family :
+    family : orange
     hex    : "#F4B350"
     rgb    : 244, 179, 80
 -
     id     : 84
     name   : CRUSTA
-    family :
+    family : orange
     hex    : "#F2784B"
     rgb    : 242, 120, 75
 -
     id     : 85
     name   : JAFFA
-    family :
+    family : orange
     hex    : "#EB974E"
     rgb    : 235, 151, 78
 -
     id     : 86
     name   : LIGHTNING YELLOW
-    family :
+    family : orange
     hex    : "#F5AB35"
     rgb    : 245, 171, 53
 -
     id     : 87
     name   : BURNT ORANGE
-    family :
+    family : orange
     hex    : "#D35400"
     rgb    : 211, 84, 0
 -
     id     : 88
     name   : BUTTERCUP
-    family :
+    family : orange
     hex    : "#F39C12"
     rgb    : 243, 156, 18
 -
     id     : 89
     name   : ECSTASY
-    family :
+    family : orange
     hex    : "#F9690E"
     rgb    : 249, 105, 14
 -
     id     : 90
     name   : SANDSTORM
-    family :
+    family : orange
     hex    : "#F9BF3B"
     rgb    : 249, 191, 59
 -
     id     : 91
     name   : JAFFA
-    family :
+    family : orange
     hex    : "#F27935"
     rgb    : 242, 121, 53
 -
     id     : 92
     name   : ZEST
-    family :
+    family : orange
     hex    : "#E67E22"
     rgb    : 230, 126, 34
+
 -
     id     : 93
     name   : WHITE SMOKE
-    family :
+    family : grey
     hex    : "#ECECEC"
     rgb    : 236,236,236
+
 -
     id     : 94
     name   : LYNCH
-    family :
+    family : grey
     hex    : "#6C7A89"
     rgb    : 108, 122, 137
+
 -
     id     : 95
     name   : PUMICE
-    family :
+    family : grey
     hex    : "#D2D7D3"
     rgb    : 210, 215, 211
+
 -
     id     : 96
     name   : GALLERY
-    family :
+    family : grey
     hex    : "#EEEEEE"
     rgb    : 238, 238, 238
+
 -
     id     : 97
     name   : SILVER SAND
-    family :
+    family : grey
     hex    : "#BDC3C7"
     rgb    : 189, 195, 199
+
 -
     id     : 98
     name   : PORCELAIN
-    family :
+    family : grey
     hex    : "#ECF0F1"
     rgb    : 236, 240, 241
 
 -
     id     : 99
     name   : CASCADE
-    family :
+    family : grey
     hex    : "#95A5A6"
     rgb    : 149, 165, 166
 
 
--   id     : 100
+-  
+    id     : 100
     name   : IRON
-    family :
+    family : grey
     hex    : "#DADFE1"
     rgb    : 218, 223, 225
 
@@ -678,7 +685,7 @@
 -   
     id     : 101
     name   : EDWARD
-    family :
+    family : grey
     hex    : "#ABB7B7"
     rgb    : 171, 183, 183
 
@@ -686,7 +693,7 @@
 -   
     id     : 102
     name   : CARARRA
-    family :
+    family : grey
     hex    : "#F2F1EF"
     rgb    : 242, 241, 239
 
@@ -694,7 +701,7 @@
 -   
     id     : 103
     name   : SILVER
-    family :
+    family : grey
     hex    : "#BFBFBF"
     rgb    : 191, 191, 191
 

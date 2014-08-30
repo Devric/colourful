@@ -1,0 +1,22 @@
+{
+  "name": "colorful",
+  "version": "0.0.0",
+  "authors": [
+    "Devric <billbox13@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-yaml": "~3.2.1",
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1",
+    "zeroclipboard": "~2.1.6",
+    "toastr": "~2.0.3"
+  }
+}
